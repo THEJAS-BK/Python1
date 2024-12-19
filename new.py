@@ -20,3 +20,9 @@ file.close()
 for lines in open("nee.txt"):
     nline=lines.split()
     print(nline[0],"---->",nline[1])
+print("this is a python repo")
+
+
+
+#this is just for practice 
+#i dont intend to write any code in this repo
